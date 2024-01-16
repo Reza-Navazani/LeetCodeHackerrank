@@ -9,4 +9,4 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1|[Int to Word ](https://leetcode.com/problems/largest-number-after-mutating-substring/) | [C#]()|Medium|
+|273|[Integer to English Word ](https://leetcode.com/problems/integer-to-english-words/description/) | [C#](C#/Int_To_Word.cs)|Hard|
