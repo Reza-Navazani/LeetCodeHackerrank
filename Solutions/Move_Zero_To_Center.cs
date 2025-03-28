@@ -2,9 +2,9 @@ using System;
 using System.Linq;
 using static System.Runtime.InteropServices.JavaScript.JSType;
 
-class Solution3
+public class Solution3
 {
-    static void Main()
+    public static void Main()
     {
         int[] inputArray = { 1, 0, 5, 0, 3, 0, 7, 2 };
 

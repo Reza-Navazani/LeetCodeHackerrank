@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCodeHackerrank")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0ca0d2eb2a222cc4bdb9d3daff49a78963b8981")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b703a0612f8d2ab4e192f63186f5ad7739aca00f")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCodeHackerrank")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCodeHackerrank")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

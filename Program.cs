@@ -9,8 +9,14 @@
                 var solution1 = new Solution1();
                 solution1.Main1();
                 break;
+            case "3":
+                Solution3.Main();
+                break;
             case "4":
                 Solution4.Main();
+                break;
+            case "5":
+                //Solution5.Main();
                 break;
             default:
                 Console.WriteLine("Invalid solution number. Please enter a valid solution.");
