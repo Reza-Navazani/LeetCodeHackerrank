@@ -2,7 +2,7 @@ using System;
 using System.Linq;
 using static System.Runtime.InteropServices.JavaScript.JSType;
 
-class Program
+class Solution3
 {
     static void Main()
     {

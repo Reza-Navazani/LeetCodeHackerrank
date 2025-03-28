@@ -3,7 +3,7 @@
 using System;
 using System.Collections.Generic;
 
-public class Solution
+public class Solution1
 {
     public IList<IList<int>> ThreeSum(int[] nums)
     {
@@ -37,9 +37,9 @@ public class Solution
         return output;
     }
 
-    static void Main()
+    public void Main1()
     {
-        Solution solution = new Solution();
+        Solution1 solution = new Solution1();
         int[] nums = { -1, 0, 1, 2, -1, -4 };
         IList<IList<int>> result = solution.ThreeSum(nums);
 

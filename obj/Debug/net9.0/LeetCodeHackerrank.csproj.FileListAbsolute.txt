@@ -1,0 +1,15 @@
+C:\Users\Jafar\Documents\Projects\LeetCodeHackerrank\obj\Debug\net9.0\LeetCodeHackerrank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jafar\Documents\Projects\LeetCodeHackerrank\obj\Debug\net9.0\LeetCodeHackerrank.AssemblyInfoInputs.cache
+C:\Users\Jafar\Documents\Projects\LeetCodeHackerrank\obj\Debug\net9.0\LeetCodeHackerrank.AssemblyInfo.cs
+C:\Users\Jafar\Documents\Projects\LeetCodeHackerrank\obj\Debug\net9.0\LeetCodeHackerrank.csproj.CoreCompileInputs.cache
+C:\Users\Jafar\Documents\Projects\LeetCodeHackerrank\obj\Debug\net9.0\LeetCodeHackerrank.sourcelink.json
+C:\Users\Jafar\Documents\Projects\LeetCodeHackerrank\bin\Debug\net9.0\LeetCodeHackerrank.exe
+C:\Users\Jafar\Documents\Projects\LeetCodeHackerrank\bin\Debug\net9.0\LeetCodeHackerrank.deps.json
+C:\Users\Jafar\Documents\Projects\LeetCodeHackerrank\bin\Debug\net9.0\LeetCodeHackerrank.runtimeconfig.json
+C:\Users\Jafar\Documents\Projects\LeetCodeHackerrank\bin\Debug\net9.0\LeetCodeHackerrank.dll
+C:\Users\Jafar\Documents\Projects\LeetCodeHackerrank\bin\Debug\net9.0\LeetCodeHackerrank.pdb
+C:\Users\Jafar\Documents\Projects\LeetCodeHackerrank\obj\Debug\net9.0\LeetCodeHackerrank.dll
+C:\Users\Jafar\Documents\Projects\LeetCodeHackerrank\obj\Debug\net9.0\refint\LeetCodeHackerrank.dll
+C:\Users\Jafar\Documents\Projects\LeetCodeHackerrank\obj\Debug\net9.0\LeetCodeHackerrank.pdb
+C:\Users\Jafar\Documents\Projects\LeetCodeHackerrank\obj\Debug\net9.0\LeetCodeHackerrank.genruntimeconfig.cache
+C:\Users\Jafar\Documents\Projects\LeetCodeHackerrank\obj\Debug\net9.0\ref\LeetCodeHackerrank.dll

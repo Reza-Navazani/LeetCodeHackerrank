@@ -1,6 +1,6 @@
 using System;
 
-public class Solution
+public class Solution2
 {
     public static string NumberToWords(int num)
     {
