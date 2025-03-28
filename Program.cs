@@ -1,3 +1,18 @@
 ﻿        Console.WriteLine("LeetCode Solutions Runner");
-        var solution = new Solution1();
-        solution.Main1();
+        Console.WriteLine("Enter the solution number to run (e.g., 1 for Solution1, 4 for Solution4):");
+
+        string input = Console.ReadLine();
+        
+        switch (input)
+        {
+            case "1":
+                var solution1 = new Solution1();
+                solution1.Main1();
+                break;
+            case "4":
+                Solution4.Main();
+                break;
+            default:
+                Console.WriteLine("Invalid solution number. Please enter a valid solution.");
+                break;
+        }
