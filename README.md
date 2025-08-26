@@ -14,4 +14,5 @@ LeetCode & Hackerrank
 |103|[3Sum](https://leetcode.com/explore/interview/card/top-interview-questions-medium/103/array-and-strings/776/) | [C#](https://github.com/Reza-Navazani/LeetCodeHackerrank/blob/bea42da4a6de9cc55e8b69caee5433e8aca10224/C%23/3Sum.cs)|Hard|
 |104|[Gas Station](https://leetcode.com/problems/gas-station/description/?envType=study-plan-v2&envId=top-interview-150) | [C#](Solutions/Gas_station.cs)|Medium|
 |274|[H-Index](https://leetcode.com/problems/h-index/description/?envType=study-plan-v2&envId=top-interview-150) | [C#](Solutions/H-index.cs)|Medium|
-|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [C#](Palindrome_Number.cs)|Medium|
+|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [C#](Solutions/Palindrome_Number.cs)|Easy|
+|8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) | [C#](Solutions/String_to_Integer.cs)|Medium|
