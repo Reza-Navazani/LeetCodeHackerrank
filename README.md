@@ -16,3 +16,5 @@ LeetCode & Hackerrank
 |274|[H-Index](https://leetcode.com/problems/h-index/description/?envType=study-plan-v2&envId=top-interview-150) | [C#](Solutions/H-index.cs)|Medium|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [C#](Solutions/Palindrome_Number.cs)|Easy|
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) | [C#](Solutions/String_to_Integer.cs)|Medium|
+|26|[SRemove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C#](Solutions/Remove_Duplicates.cs)|Easy|
+
