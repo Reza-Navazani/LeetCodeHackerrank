@@ -18,3 +18,4 @@ LeetCode & Hackerrank
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) | [C#](Solutions/String_to_Integer.cs)|Medium|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C#](Solutions/Remove_Duplicates.cs)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/description/) | [C#](Solutions/Remove_Element.cs)|Easy|
+|135|[Candy](https://leetcode.com/problems/candy/description/) | [C#](Solutions/Candy.cs)|Hard|
