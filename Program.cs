@@ -1,4 +1,6 @@
-﻿        Console.WriteLine("LeetCode Solutions Runner");
+﻿using LeetCodeHackerrank.Solutions;
+
+Console.WriteLine("LeetCode Solutions Runner");
         Console.WriteLine("Enter the solution number to run (e.g., 1 for Solution1, 4 for Solution4):");
 
         string input = Console.ReadLine();
@@ -16,7 +18,7 @@
                 Solution4.Main();
                 break;
             case "5":
-                //Solution5.Main();
+                IsMatch.Main();
                 break;
             default:
                 Console.WriteLine("Invalid solution number. Please enter a valid solution.");

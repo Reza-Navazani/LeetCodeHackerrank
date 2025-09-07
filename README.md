@@ -20,3 +20,4 @@ LeetCode & Hackerrank
 |27|[Remove Element](https://leetcode.com/problems/remove-element/description/) | [C#](Solutions/Remove_Element.cs)|Easy|
 |135|[Candy](https://leetcode.com/problems/candy/description/) | [C#](Solutions/Candy.cs)|Hard|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [C#](Solutions/Best_Time_to_Buy_and_Sell_Stock_II.cs)|Medium|
+|10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/) | [C#](Solutions/IsMatch.cs)|Hard|
