@@ -6,7 +6,7 @@ Change the array nums such that the first k elements of nums contain the element
 The remaining elements of nums are not important as well as the size of nums.
 Return k.
 */
-public class Solution
+public class Solution21
 {
     public void Merge(int[] nums1, int m, int[] nums2, int n)
     {

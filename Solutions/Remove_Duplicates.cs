@@ -8,7 +8,7 @@ The remaining elements of nums are not important as well as the size of nums.
 Return k.
 */
 
-public class Solution
+public class Solution122
 {
     public int RemoveDuplicates(int[] nums)
     {

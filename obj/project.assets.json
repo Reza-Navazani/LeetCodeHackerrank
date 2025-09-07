@@ -8,23 +8,23 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Jafar\\.nuget\\packages\\": {},
+    "C:\\Users\\elahe\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jafar\\Documents\\Projects\\LeetCodeHackerrank\\LeetCodeHackerrank.csproj",
+      "projectUniqueName": "C:\\Users\\elahe\\Documents\\Projects\\LeetCodeHackerrank\\LeetCodeHackerrank.csproj",
       "projectName": "LeetCodeHackerrank",
-      "projectPath": "C:\\Users\\Jafar\\Documents\\Projects\\LeetCodeHackerrank\\LeetCodeHackerrank.csproj",
-      "packagesPath": "C:\\Users\\Jafar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jafar\\Documents\\Projects\\LeetCodeHackerrank\\obj\\",
+      "projectPath": "C:\\Users\\elahe\\Documents\\Projects\\LeetCodeHackerrank\\LeetCodeHackerrank.csproj",
+      "packagesPath": "C:\\Users\\elahe\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\elahe\\Documents\\Projects\\LeetCodeHackerrank\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Jafar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\elahe\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -51,7 +51,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net9.0": {
@@ -72,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

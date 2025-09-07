@@ -7,7 +7,7 @@ However, you can buy it then immediately sell it on the same day.
 Find and return the maximum profit you can achieve.
 */
 
-public class Solution
+public class Solution12
 {
     public int MaxProfit(int[] prices)
     {
